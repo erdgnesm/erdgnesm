@@ -1,4 +1,4 @@
-# Hi There 👋💫
+# Hi there 👋💫
 - 🎓 I am currently studying **Mathematics**.<br>- 💻 I have a strong interest in **Software Development**.<br>- 🌱 I’m currently learning more about **web development** and **data science**.<br>- 📫 How to reach me: [esmanurerdogan71@gmail.com](mailto:esmanurerdogan71@gmail.com)<br>- ⚡ Fun fact: I love riding horses and playing the violin.<br>
 
 
