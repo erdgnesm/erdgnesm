@@ -2,8 +2,9 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=erdgnesm&&style=plastics&&color=yellow" align="right"/>
 </p>
+![My Gif](https://github.com/erdgnesm/erdgnesm/blob/main/giphy.gif?raw=true)
 
-# 💫 About Me:
+💫 About Me:
 - 🎓 I am currently studying **Mathematics**.
 - 💻 I have a strong interest in **Software Development**.
 - 🌱 I’m currently learning more about **web development** and **data science**.
