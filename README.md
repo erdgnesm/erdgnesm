@@ -3,19 +3,15 @@
   <img src="https://komarev.com/ghpvc/?username=erdgnesm&&style=plastics&&color=yellow" align="right"/>
 </p>
 
-![My Gif](https://github.com/erdgnesm/erdgnesm/blob/main/giphy.gif?raw=true)
+<p align="center">
+  <img src="https://github.com/erdgnesm/erdgnesm/blob/main/giphy.gif?raw=true" width="300px" alt="My Gif"/>
+</p>
 
 💫 About Me:
 - 🎓 I am currently studying **Mathematics**.
 - 💻 I have a strong interest in **Software Development**.
 - 🌱 I’m currently learning more about **web development** and **data science**.
 - 📫 How to reach me: [esmanerdogan17@gmail.com](mailto:esmanerdogan17@gmail.com)
-
----
-
-<p align="center">
-  <img src="https://drive.google.com/uc?id=1jTCsZdb1F29UtPncXsAiBb5m0XDFbqGH" width="500px" alt="Custom Gif"/>
-</p>
 
 ---
 
