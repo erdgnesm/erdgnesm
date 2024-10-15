@@ -17,19 +17,11 @@
 
 # 📊 GitHub Stats:
 <p align="center">
-  <img src="URL_TO_WING_GIF" alt="Left Wing" width="150px" align="left"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=erdgnesm&theme=react&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" width="400px"/>
-  <img src="URL_TO_WING_GIF" alt="Right Wing" width="150px" align="right"/>
-</p>
-<p align="center">
-  <img src="URL_TO_WING_GIF" alt="Left Wing" width="150px" align="left"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=erdgnesm&theme=react&hide_border=false" alt="GitHub Streak" width="400px"/>
-  <img src="URL_TO_WING_GIF" alt="Right Wing" width="150px" align="right"/>
-</p>
-<p align="center">
-  <img src="URL_TO_WING_GIF" alt="Left Wing" width="150px" align="left"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=erdgnesm&theme=react&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" width="400px"/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=erdgnesm&theme=react&hide_border=false" alt="GitHub Streak" width="400px"/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erdgnesm&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="400px"/>
-  <img src="URL_TO_WING_GIF" alt="Right Wing" width="150px" align="right"/>
 </p>
 
 ---
+
+[![Visitor Count](https://visitcount.itsvg.in/api?id=erdgnesm&icon=0&color=1)](https://visitcount.itsvg.in)
