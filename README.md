@@ -2,6 +2,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=erdgnesm&&style=plastics&&color=yellow" align="right"/>
 </p>
+
 ![My Gif](https://github.com/erdgnesm/erdgnesm/blob/main/giphy.gif?raw=true)
 
 💫 About Me:
