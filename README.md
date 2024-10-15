@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/erdgnesm/erdgnesm/blob/main/giphy.gif?raw=true" width="300px" alt="My Gif"/>
+  <img src="https://github.com/erdgnesm/erdgnesm/blob/main/giphy.gif?raw=true" width="450px" height="250px" alt="My Gif"/>
 </p>
 
 💫 About Me:
